@@ -1,10 +1,24 @@
 # Password Generator Starter Code
 
-For this project we are completing a Password Generator file. The intended function of the application will generate a 10 character password that contains Upper and Lower case letters, numbers, and special characters. The funciton of the applicaiton will be started by a simple button click.
+## Purpose
 
-This is the intended layout of the site. 
+For this project we are completing a Password Generator file. The intended function of the application will generate an 8-12 character password that contains Upper and Lower case letters, numbers, and special characters. The function of the application will be started by a simple button click.
 
-MIT License
+## Guide
+
+Before you click! Just add any parameters you see fit to add to the security of the password generator.
+
+Choose a password Length!
+
+Then add or subtract the types of characters (letters, uppercase, lowercase, or symbols) you want to add. 
+
+Press submit and BOOM! The last password you'll need... until you forget it. 
+
+
+
+
+
+### MIT License
 
 Copyright (c) [2021] [Raymond Flaherty]
 
